@@ -101,6 +101,7 @@ img {
 .movie a{
   text-decoration: none;
 	padding-left: 70px;
+	color: black;
 }
 .movie a:hover {
 	text-decoration: underline;
