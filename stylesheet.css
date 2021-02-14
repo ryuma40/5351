@@ -80,7 +80,7 @@ header {
   width: auto;
   height: 400px;
   text-align: center;
-  background-color: #DDDDDD;
+  background-color: none;
 }
 .fa, .fas, .material-icons {
   color: #666;
