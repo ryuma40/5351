@@ -98,6 +98,9 @@ img {
   border-bottom: 1px solid #333;
   margin: 60px 60px 10px 60px;
 }
+.movie a{
+	text-decolation: none;
+}
 p {
   font-family: 'Lato', sans-serif;
   font-size: 13px;
